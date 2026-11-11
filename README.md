@@ -14,6 +14,19 @@ Reproducir las demostraciones utilizadas en el video con una base de datos de su
 4. **Comparación de planes** — validar la mejora comparando planes de ejecución.
 5. **Visual Function Editor** — revisar visualmente la función utilizada en la demo.
 
+## 🔗 Recursos oficiales de Devart
+
+Conoce más sobre las herramientas utilizadas en esta demostración:
+
+- **dbForge Edge**  
+  https://www.devart.com/dbforge/edge/
+
+- **dbForge Studio for PostgreSQL**  
+  https://www.devart.com/dbforge/postgresql/studio/
+
+- **dbForge AI Assistant**  
+  https://www.devart.com/dbforge/ai-assistant/
+
 ## 🧰 Requisitos
 
 - PostgreSQL
@@ -208,7 +221,7 @@ dbforge-postgresql-2026-2-demo/
 ## 👤 Autor de las demos
 
 **Segundo Morales Rubio**  
-Microsoft MVP | Data, Power Platform & AI
+Microsoft MVP | Data, Power Platform
 
 Video preparado en colaboración con Devart.
 
