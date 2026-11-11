@@ -14,6 +14,19 @@ Reproduce the practical demonstrations used in the video with a PostgreSQL super
 4. **Plan comparison** — validate the optimization by comparing execution plans.
 5. **Visual Function Editor** — review the function used in the debugging scenario.
 
+## 🔗 Official Devart Resources
+
+Learn more about the tools featured in this demo:
+
+- **dbForge Edge**  
+  https://www.devart.com/dbforge/edge/
+
+- **dbForge Studio for PostgreSQL**  
+  https://www.devart.com/dbforge/postgresql/studio/
+
+- **dbForge AI Assistant**  
+  https://www.devart.com/dbforge/ai-assistant/
+
 ## 🧰 Requirements
 
 - PostgreSQL
